@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Jonatha! 👋
 
-<!--
-**JonathaSantos-ht/JonathaSantos-ht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Desenvolvimento de Software**  
+💻 Focado na criação de soluções práticas para web e backend, além de exploração de lógica de rede e jogos online.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** C#, JavaScript, Python
+- **Frontend:** HTML5, CSS3
+- **Backend & APIs:** Node.js, Express, APIs REST
+- **Game Dev & Modding:** Emulação e servidores privados de Dofus 2.43 (regras de jogo, pacotes de rede e dados)
+- **Versionamento:** Git & GitHub
+
+---
+
+### 🚀 Repositórios em Destaque
+- **[pi-connect-jonatha-santos1](https://github.com/JonathaSantos-ht/pi-connect-jonatha-santos1):** API REST em Node.js e Express para gestão de utilizadores.
+- **Sistema de Barbearia:** Aplicação voltada para gestão de atendimentos e rotinas de agendamento.
+- **Modding Dofus 2.43:** Lógica de jogo e alterações aplicadas ao servidor da versão 2.43.
+
+---
+
+📫 **Contacto:**
+- (https://www.linkedin.com/in/jonatha-santos-2b4008389?utm_source=share_via&utm_content=profile&utm_medium=member_ios).
